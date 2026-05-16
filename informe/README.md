@@ -7,7 +7,3 @@ El propósito de esta carpeta es contener toda la documentación escrita, incluy
 - Documentos de texto (`.docx`, `.pdf`) con el reporte estructurado del análisis.
 - Presentaciones del proyecto, si aplica.
 
-## Ejemplos de contenido
-- `Informe_Final_Analisis_Datos.pdf`
-- `Borrador_Informe.docx`
-- `Presentacion_Resultados.pptx`
