@@ -1,9 +1,13 @@
-# Reporte Final: Análisis de Datos, Correlación, Clustering y Reglas de Asociación
+# Reporte Final: Evaluación Ordinaria 4
+**UNIVERSIDAD TECNOLÓGICA DE EL SALVADOR**
+**FACULTAD DE INFORMÁTICA Y CIENCIAS APLICADAS - ESCUELA DE INFORMÁTICA**
 
-**Asignatura:** Inteligencia de Negocios
-**Alumno:** [Tu Nombre]
-**Carnet:** [Tu Carnet]
-**Fecha:** 16 de mayo de 2026
+**Asignatura:** TÉCNICAS DE PRODUCCIÓN INDUSTRIAL DE SOFTWARE II (TE2)
+**Profesor:** Jorge Edwin Machado
+**Sección:** 01 | **Ciclo:** 01-2026
+**Alumno:** Aldo Jahir Marroquin Villator
+**No de carnet:** 25-1628-2020
+**Fecha:** 16-05-2026
 
 ---
 
