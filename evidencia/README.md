@@ -9,8 +9,3 @@ El propósito de esta carpeta es almacenar capturas de pantalla, gráficos clave
 - Capturas de la matriz de correlación o visualización de clusters.
 - Archivos en formato `.png`, `.jpg` o `.pdf`.
 
-## Ejemplos de contenido
-- `matriz_correlacion.png`
-- `clusters_kmeans.jpg`
-- `codigo_limpieza.png`
-- `distribucion_variables.png`
