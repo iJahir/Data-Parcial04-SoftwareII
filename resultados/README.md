@@ -8,7 +8,3 @@ El propósito de esta carpeta es guardar las salidas generadas por los modelos y
 - Modelos serializados (ej. archivos `.pkl` o `.joblib`).
 - Reportes automatizados generados por código (ej. perfiles de datos en HTML).
 
-## Ejemplos de contenido
-- `reglas_asociacion_generadas.csv`
-- `centroides_clusters_kmeans.csv`
-- `modelo_kmeans.pkl`
