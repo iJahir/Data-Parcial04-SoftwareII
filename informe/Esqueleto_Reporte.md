@@ -23,13 +23,13 @@ El presente informe documenta los resultados obtenidos tras aplicar técnicas de
 
 ---
 
-## 3. Desarrollo y Resultados
+## 6. Desarrollo (Ejercicios Prácticos)
 
-### 3.1 Ejercicio 1: Análisis de Asociación (Reglas de Compra)
-**Descripción:** Se utilizó el dataset de transacciones para identificar qué productos se compran típicamente juntos. Tras preparar los datos en un formato binario por transacción, se aplicó el algoritmo Apriori fijando un soporte mínimo del 5%.
+### 6.1 Ejercicio 1: Análisis de Asociación
+**Descripción:** Se utilizó el archivo `clave_C_asociacion.csv` para identificar qué productos se compran típicamente juntos. Tras preparar los datos en un formato binario por transacción, se aplicó el algoritmo Apriori fijando un soporte mínimo del 5%.
 
-**Captura del Código y Top Reglas:**
-*(Inserta aquí una captura de pantalla del Notebook mostrando el Top 10 de reglas generadas)*
+**Evidencia (Captura requerida):**
+> **[INSTRUCCIÓN PARA TI, ALDO: Ve a tu carpeta `evidencia/`, busca la imagen llamada `6_1_top_10_reglas_asociacion.png` y pégala debajo de este texto. ¡Ya no tienes que abrir el Notebook para tomar captura!]**
 
 **Interpretación (Lenguaje de Negocio):**
 - **Regla 1:** Los clientes que adquieren [Producto A] tienen un [X]% de probabilidad de comprar [Producto B]. Su indicador de *Lift* es de [Y], lo que significa que la probabilidad de que se compren juntos es mucho mayor que si se compraran al azar.
@@ -42,11 +42,11 @@ El presente informe documenta los resultados obtenidos tras aplicar técnicas de
 
 ---
 
-### 3.2 Ejercicio 2: Análisis de Correlación
-**Descripción:** Se evaluó el dataset de métricas de cliente para entender la interacción entre variables numéricas.
+### 6.2 Ejercicio 2: Análisis de Correlación
+**Descripción:** Se evaluó el archivo `clave_C_correlacion.csv` para entender la interacción entre variables numéricas y el comportamiento general del usuario.
 
-**Captura del Mapa de Calor:**
-*(Inserta aquí la imagen `heatmap_clave_C_correlacion.png` que se encuentra en la carpeta evidencia)*
+**Evidencia (Captura requerida):**
+> **[INSTRUCCIÓN PARA TI, ALDO: Ve a tu carpeta `evidencia/`, busca la imagen llamada `heatmap_clave_C_correlacion.png` (o `mapa_calor_correlacion.png`) y pégala debajo de este texto. Esta es la prueba de tu matriz de correlación.]**
 
 **Interpretación:**
 - **Correlación Positiva más fuerte:** Se halló entre [Ingresos] y [Consumo]. Esto significa que a mayor ingreso, los clientes gastan proporcionalmente más.
@@ -58,11 +58,14 @@ Las correlaciones demuestran que reducir el tiempo de respuesta y los reclamos e
 
 ---
 
-### 3.3 Ejercicio 3: Agrupación o Clustering (K-Means)
-**Descripción:** Con el objetivo de segmentar a la clientela, se usó el algoritmo K-Means. Tras normalizar los datos, el método del codo sugirió agrupar en 3 clústeres.
+### 6.3 Ejercicio 3: Agrupación o Clustering (K-Means)
+**Descripción:** Con el objetivo de segmentar a la clientela, se usó el archivo `clave_C_agrupacion.csv`. Tras normalizar los datos, el método del codo sugirió agrupar a los clientes mediante el algoritmo K-Means.
 
-**Captura del Gráfico de Clusters:**
-*(Inserta aquí la imagen `clustering_segmentacion.png` que se encuentra en la carpeta evidencia)*
+**Evidencia (Capturas requeridas):**
+> **[INSTRUCCIÓN PARA TI, ALDO: Ve a tu carpeta `evidencia/` y pega aquí ESTAS TRES imágenes:
+> 1. `6_3_metodo_codo.png` (demuestra que el valor K es 3).
+> 2. `6_3_centroides_kmeans.png` (muestra los promedios numéricos de cada grupo).
+> 3. `clustering_segmentacion.png` (el gráfico final de los puntos de colores).]**
 
 **Interpretación de Grupos (Clústeres):**
 - **Cluster 0 (Premium):** Representa clientes de altos ingresos que compran frecuentemente y gastan mucho.
@@ -76,5 +79,5 @@ Las correlaciones demuestran que reducir el tiempo de respuesta y los reclamos e
 
 ---
 
-## 4. Conclusiones Generales
+## 7. Conclusiones Generales
 El análisis desarrollado permitió transformar tres conjuntos de datos aislados en estrategias de negocio concretas. Se comprobó que el análisis de datos no supervisado no solo describe la situación actual, sino que prevé el comportamiento futuro (como la propensión a comprar productos juntos). La implementación de estas recomendaciones puede traducirse en mayores ingresos mediante venta cruzada, y mayor retención abordando a los clientes del Clúster "en riesgo" antes de que abandonen la empresa.
