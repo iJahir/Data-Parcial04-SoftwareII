@@ -6,8 +6,3 @@ El propósito de esta carpeta es albergar los Jupyter Notebooks o scripts de Goo
 ## Archivos que deben guardarse aquí
 - Archivos de extensión `.ipynb` (Jupyter/Colab).
 - Scripts auxiliares de Python `.py` (si se modulariza el código).
-
-## Ejemplos de contenido
-- `Analisis_Exploratorio_y_Clustering.ipynb`
-- `1_EDA_Dataset_Docente.ipynb`
-- `2_Modelo_KMeans_y_Reglas.ipynb`
