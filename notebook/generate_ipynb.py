@@ -2,8 +2,11 @@ import nbformat as nbf
 
 nb = nbf.v4.new_notebook()
 
-text_intro = """# Proyecto Final: Análisis de Datos (Parcial 4)
-**Asignatura:** Inteligencia de Negocios  
+text_intro = """# Proyecto Final: Evaluación Ordinaria 4
+**Asignatura:** TÉCNICAS DE PRODUCCIÓN INDUSTRIAL DE SOFTWARE II (TE2)  
+**Sección:** 01 | **Ciclo:** 01-2026  
+**Alumno:** Aldo Jahir Marroquin Villator  
+**No de carnet:** 25-1628-2020  
 **Fecha:** 16-05-2026
 
 En este notebook se desarrollarán tres ejercicios prácticos exigidos por la rúbrica del docente:
