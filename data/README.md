@@ -9,9 +9,6 @@ El propósito de esta carpeta es almacenar todos los conjuntos de datos (dataset
 - Datasets limpios o procesados listos para análisis y modelado.
 
 ## Ejemplos de contenido
-- `dataset_original.csv`
-- `datos_limpios.csv`
-- `diccionario_datos.txt`
 - `clave_C_agrupacion.csv`
 - `clave_C_asociacion.csv`
 - `clave_C_correlacion.csv`
