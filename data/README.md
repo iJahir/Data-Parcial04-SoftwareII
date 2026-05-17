@@ -5,7 +5,7 @@ El propósito de esta carpeta es almacenar todos los conjuntos de datos (dataset
 
 ## Archivos que deben guardarse aquí
 - Archivos `.csv`, `.excel`, `.json` o cualquier otro formato tabular proporcionado.
-- Datasets originales proporcionados por el docente (sin modificar).
+- Datasets originales proporcionados por el docente en este caso el Ing. Jorge Machado.
 - Datasets limpios o procesados listos para análisis y modelado.
 
 ## Ejemplos de contenido
