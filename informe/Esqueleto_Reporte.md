@@ -4,12 +4,15 @@
 
 
 
+*****************************************************************
 **Asignatura:** TÉCNICAS DE PRODUCCIÓN INDUSTRIAL DE SOFTWARE II (TE2)
 **Profesor:** Jorge Edwin Machado
 **Sección:** 01 | **Ciclo:** 01-2026
 **Alumno:** Aldo Jahir Marroquin Villator
 **No de carnet:** 25-1628-2020
 **Fecha:** 16-05-2026
+
+*****************************************************************
 
 ---
 
