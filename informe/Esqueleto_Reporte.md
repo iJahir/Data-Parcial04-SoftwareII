@@ -28,8 +28,6 @@ El presente informe documenta los resultados obtenidos tras aplicar técnicas de
 ### 6.1 Ejercicio 1: Análisis de Asociación
 **Descripción:** Se utilizó el archivo `clave_C_asociacion.csv` para identificar qué productos se compran típicamente juntos. Tras preparar los datos en un formato binario por transacción, se aplicó el algoritmo Apriori fijando un soporte mínimo del 5%.
 
-**Evidencia (Captura requerida):**
-> **[INSTRUCCIÓN PARA TI, ALDO: Ve a tu carpeta `evidencia/`, busca la imagen llamada `6_1_top_10_reglas_asociacion.png` y pégala debajo de este texto. ¡Ya no tienes que abrir el Notebook para tomar captura!]**
 
 **Interpretación (Lenguaje de Negocio):**
 - **Regla 1:** Los clientes que adquieren [Producto A] tienen un [X]% de probabilidad de comprar [Producto B]. Su indicador de *Lift* es de [Y], lo que significa que la probabilidad de que se compren juntos es mucho mayor que si se compraran al azar.
