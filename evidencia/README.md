@@ -1,7 +1,7 @@
 # Carpeta de Evidencia (`/evidencia`)
 
 ## Propósito
-El propósito de esta carpeta es almacenar capturas de pantalla, gráficos clave y pruebas de la ejecución del código o funcionamiento del notebook, para respaldar el proceso de análisis y modelado en informes académicos o profesionales.
+El propósito de esta carpeta es almacenar capturas de pantalla, gráficos clave y pruebas de la ejecución del código o funcionamiento del notebook, para respaldar el proceso de análisis y modelado en informe.
 
 ## Archivos que deben guardarse aquí
 - Imágenes de gráficas exploratorias y resultados de algoritmos.
