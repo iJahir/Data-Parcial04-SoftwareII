@@ -45,8 +45,7 @@ El presente informe documenta los resultados obtenidos tras aplicar técnicas de
 ### 6.2 Ejercicio 2: Análisis de Correlación
 **Descripción:** Se evaluó el archivo `clave_C_correlacion.csv` para entender la interacción entre variables numéricas y el comportamiento general del usuario.
 
-**Evidencia (Captura requerida):**
-> **[INSTRUCCIÓN PARA TI, ALDO: Ve a tu carpeta `evidencia/`, busca la imagen llamada `heatmap_clave_C_correlacion.png` (o `mapa_calor_correlacion.png`) y pégala debajo de este texto. Esta es la prueba de tu matriz de correlación.]**
+
 
 **Interpretación:**
 - **Correlación Positiva más fuerte:** Se halló entre [Ingresos] y [Consumo]. Esto significa que a mayor ingreso, los clientes gastan proporcionalmente más.
@@ -61,8 +60,7 @@ Las correlaciones demuestran que reducir el tiempo de respuesta y los reclamos e
 ### 6.3 Ejercicio 3: Agrupación o Clustering (K-Means)
 **Descripción:** Con el objetivo de segmentar a la clientela, se usó el archivo `clave_C_agrupacion.csv`. Tras normalizar los datos, el método del codo sugirió agrupar a los clientes mediante el algoritmo K-Means.
 
-**Evidencia (Capturas requeridas):**
-> **[INSTRUCCIÓN PARA TI, ALDO: Ve a tu carpeta `evidencia/` y pega aquí ESTAS TRES imágenes:
+**Evidencia:**
 > 1. `6_3_metodo_codo.png` (demuestra que el valor K es 3).
 > 2. `6_3_centroides_kmeans.png` (muestra los promedios numéricos de cada grupo).
 > 3. `clustering_segmentacion.png` (el gráfico final de los puntos de colores).]**
